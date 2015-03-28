@@ -6,7 +6,7 @@
 <meta name="apple-mobile-web-app-status-bar-style" content="black" />
 <link href="styles-mobile.css" media="only screen and (max-device-width: 640px)" rel="stylesheet" type="text/css" />
 <meta charset="UTF-8">
-<title>DoughWorks</title>
+<title>MovieMan</title>
 <link href="moblie.css" rel="stylesheet" type="text/css">
 </head>
 
